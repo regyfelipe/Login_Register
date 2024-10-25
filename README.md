@@ -1,5 +1,8 @@
 # Login App
 
+**Select Language:**  
+[🇬🇧 English](README.md) | [🇧🇷 Português](READMEBR.md) | [🇪🇸 Español](READMEES.md)
+
 A Flutter application for user authentication, providing an intuitive and modern interface for signing up and signing in.
 
 ## Features
@@ -24,14 +27,13 @@ To get started with this project, follow these steps:
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/login.git
+   git clone https://github.com/regyfelipe/Login_Register.git
    cd login
 
 
+### Usage Instructions
 
-### Instruções para Uso
+- If you need more information or specific details about the project, feel free to add or modify the sections as necessary.
 
+If you have any questions or need help with another part of the project, just let me know!
 
-- Se precisar de mais informações ou detalhes específicos sobre o projeto, sinta-se à vontade para adicionar ou modificar as seções conforme necessário.
-
-Se você tiver mais alguma dúvida ou precisar de ajuda com outra parte do projeto, é só avisar!
