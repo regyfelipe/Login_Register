@@ -24,7 +24,7 @@ To get started with this project, follow these steps:
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/login.git
+   git clone https://github.com/regyfelipe/Login_Register.git
    cd login
 
 
